@@ -1,4 +1,5 @@
 '''
+Platform: CodeSignal
 Fix Message
 
 One of your friends has an awful writing style: he almost never starts a message with a capital letter,
